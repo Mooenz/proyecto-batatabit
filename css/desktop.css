@@ -1,0 +1,52 @@
+.header {
+  height: 440px;
+}
+
+.header--title-container .header--title {
+  font-size: 4rem;
+  line-height: 4.2rem;
+}
+
+.header--title-container .header--subtitle {
+  font-size: 2rem;
+  line-height: 2.4rem;
+  margin-top: 32px;
+}
+
+.main-exchange--content h2 {
+  font-size: 4rem;
+  line-height: 4.2rem;
+}
+
+.main-exchange--content p {
+  font-size: 2rem;
+  line-height: 2.4rem;
+  margin: 24px auto 0;
+  max-width: 466px;
+}
+
+.main-product--content {
+  margin: 0 auto 40px;
+}
+
+.main-product--content h2 {
+  font-size: 4rem;
+  line-height: 4.2rem;
+  margin-bottom: 24px;
+}
+
+.main-product--content p {
+  font-size: 2.4rem;
+  line-height: 2.4rem;
+}
+
+.main-plans .main-plans--content h2 {
+  font-size: 4rem;
+  line-height: 4.2rem;
+  margin-bottom: 24px;
+}
+
+.main-plans .main-plans--content p {
+  font-size: 2.4rem;
+  line-height: 2.4rem;
+}
